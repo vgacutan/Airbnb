@@ -37,7 +37,7 @@ The jupyter notebook with file extension `.ipynb` contains the analysis that was
 The 2 `.png` images where also included here for presentation purposes.
 
 ## Results
-The full result of the analysis and the Author's view point where posted on this [link]() in Medium.
+The full result of the analysis and the Author's view point where posted on this [link](https://vmgacutan.medium.com/where-to-stay-in-seattle-wa-32c6434b4198) in Medium.
 
 ## Acknowledgement
 The dataset that was used on this analysis comes from Airbnb as part of the Airbnb Open Data available in Kaggle on this [link](https://www.kaggle.com/airbnb/seattle).
